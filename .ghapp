@@ -1,0 +1,10 @@
+{
+  "id": 137059418,
+  "created_at": "2026-05-31T21:50:00.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["SheinbergLab.r-universe.dev"]
+}
